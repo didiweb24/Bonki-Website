@@ -14,9 +14,9 @@ const Head = () => {
           <div className="right row d-flex">
             <label>Theme FAQ's</label>
             <label>Need Helps</label>
-            <span>flag</span>
+            <span>🇬🇧</span>
             <label htmlFor="">EN</label>
-            <span>flag</span>
+            <span>🇺🇸</span>
             <label htmlFor="">USD</label>
           </div>
         </div>
